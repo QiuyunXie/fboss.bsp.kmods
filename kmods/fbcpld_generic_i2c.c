@@ -52,6 +52,7 @@ static const struct i2c_device_id fbcpld_generic_id[] = {
 	{ "fbg_pwrcpld", 0 },
 	{ "fbg_piccpld", 0 },
 	{ "fbg_rtmcpld", 0 },
+	{ "fbg_oecpld", 0 },
 	{ },
 };
 MODULE_DEVICE_TABLE(i2c, fbcpld_generic_id);
