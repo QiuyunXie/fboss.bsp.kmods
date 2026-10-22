@@ -36,7 +36,7 @@
         "icecube_piccpld",
         "icecube_scmcpld",
         "icephoton_scmcpld",
-        "icephoton_syspld",
+        "icephoton_syscpld",
         "icetea_fancpld",
         "icetea_scmcpld",
         "janga_smbcpld",
